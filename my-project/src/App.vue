@@ -2,6 +2,7 @@
   <div id="app">
     <img src="./assets/logo.png">
     <one/>
+    <h2>这是郑洁灿改动的！！！</h2>
     <router-view/>
   </div>
 </template>
